@@ -1,0 +1,39 @@
+.data{
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    flex-direction:column;
+    width: 50%;
+    font-size: 1.5rem;
+    padding-top: 10px;
+
+}
+.form{
+    font-size: 1.5rem;
+    background-color: #0E1C36;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    
+}
+button{
+    padding: 5px;
+    background-color: #31E981;
+    border: none;
+    border-radius: 50px;
+}
+button:hover{
+    background-color: #3066BE;
+}
+span{
+    color: #3066BE;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.divData{
+    padding: 5px;
+
+
+}
